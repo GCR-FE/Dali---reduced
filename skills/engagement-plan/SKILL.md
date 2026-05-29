@@ -1,6 +1,6 @@
 ---
 name: engagement-plan
-description: "People-centric deal strategy and meeting roadmap."
+description: "People-centric deal strategy and meeting roadmap. Use when planning how to approach or win a deal."
 user_locked: true
 ---
 

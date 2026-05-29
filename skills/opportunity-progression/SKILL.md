@@ -1,6 +1,6 @@
 ---
 name: opportunity-progression
-description: "opportunity gap analysis and stage readiness check."
+description: "opportunity gap analysis and stage readiness check. Use for next steps, what's missing, or how to close the deal."
 user_locked: true
 ---
 

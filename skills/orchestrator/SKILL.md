@@ -8,6 +8,7 @@ description: >
   any sales-related request, any question about customers/deals/meetings/competitors,
   raw content paste (news, meeting notes, LinkedIn profiles), continuation signals
   ("继续", "下一步", "好的"), and meta questions ("到什么阶段了", "这周做什么").
+  Use for any sales request, a continuation signal, or a status check.
 user_locked: true
 ---
 

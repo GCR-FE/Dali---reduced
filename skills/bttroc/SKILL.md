@@ -1,6 +1,6 @@
 ---
 name: "bttroc"
-description: "CXO conversation from strategic analysis + solutions."
+description: "CXO conversation from strategic analysis + solutions. Use when identifying opportunities or asking where we can sell."
 user_locked: true
 ---
 

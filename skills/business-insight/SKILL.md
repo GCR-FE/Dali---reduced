@@ -1,6 +1,6 @@
 ---
 name: "business-insight"
-description: "BMC → Porter → PESTLE → SWOT/TOWS → Top Strategic Initiatives."
+description: "BMC → Porter → PESTLE → SWOT/TOWS → Top Strategic Initiatives. Use for strategic analysis, SWOT, or business model breakdown."
 user_locked: true
 ---
 

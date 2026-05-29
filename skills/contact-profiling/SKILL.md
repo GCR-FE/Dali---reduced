@@ -1,6 +1,6 @@
 ---
 name: contact-profiling
-description: "Behavioral profiling of customer personas."
+description: "Behavioral profiling of customer personas. Use when figuring out how to read or deal with a specific person."
 user_locked: true
 ---
 

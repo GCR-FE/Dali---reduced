@@ -1,6 +1,6 @@
 ---
 name: executive-briefing
-description: "Internal briefing for AWS executive customer visits."
+description: "Internal briefing for AWS executive customer visits. Use when preparing an EBC or leadership visit."
 user_locked: true
 ---
 

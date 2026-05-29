@@ -1,6 +1,6 @@
 ---
 name: call-plan
-description: "Pre-meeting preparation document for customer visits."
+description: "Pre-meeting preparation document for customer visits. Use when preparing a call, meeting, or customer visit."
 user_locked: true
 ---
 
@@ -41,10 +41,7 @@ If attendee roles are unknown, ask the rep before proceeding.
 ### Rule 4: Stage-Aware
 Tag every Call Plan with the current AWS Sales Stage (sourced from EP / Opp Progression). Use the stage to determine focus areas and target outcomes. Warn when activities don't match the stage. Suggest advancement when evidence supports it — but stage advancement decisions are validated by Opp Progression, not Call Plan.
 
-### Rule 5: Always Review with Sales
-After generating, always ask: "Please review and let me know if anything needs to be revised."
-
-### Rule 6: Bidirectional Sync with EP
+### Rule 5: Bidirectional Sync with EP
 **CP → EP (post-generation):** After generating a Call Plan, compare attendees and objectives with EP's Next Milestone Detail. If there are differences:
 1. **New attendees** → Add to EP Key Stakeholders; mark unknown fields as `[TBC]`
 2. **Attendee changes** → Update EP Next Milestone Detail
@@ -54,7 +51,7 @@ After generating, always ask: "Please review and let me know if anything needs t
 
 **EP → CP (post-sales-review):** When sales reviews the CP and makes changes (e.g., adjusting attendees, objectives, or agenda), the agent proactively checks whether corresponding EP fields need sync updates. See references/call-plan.md AGENT GUIDANCE for field mapping. Principle: if CP changes → EP follows, maintaining consistency.
 
-### Rule 7: Data Provenance Labeling
+### Rule 6: Data Provenance Labeling
 Every piece of information must carry a provenance label so sales knows the confidence level.
 
 | Label | Meaning | Sales Action |
@@ -68,7 +65,7 @@ Every piece of information must carry a provenance label so sales knows the conf
 **Upgrade mechanism:** After sales confirms → upgrade to `[销售确认]`.
 **Language rule:** Labels follow the conversation language — use Chinese labels when conversing in Chinese, English labels (`[Sales Confirmed]`/`[AI Inferred]`/`[Web Search]`) when conversing in English.
 
-### Rule 8: Never Hallucinate
+### Rule 7: Never Hallucinate
 Do not fabricate meeting objectives, attendee roles, customer stance, or expected outcomes. If information is unknown, mark as `[TBC]` and ask sales to provide it.
 
 ---
@@ -94,7 +91,7 @@ When no EP exists or sales requests directly, collect minimum required inputs:
 | 1 | **Customer name** | Identify account, check for existing EP |
 | 2 | **Who are you meeting?** (names + titles) | Persona matching, stakeholder mapping |
 | 3 | **Meeting objective** | Shape document focus |
-| 4 | **Opportunity / customer need context** | What's the deal about? |
+| 4 | **Optional**Opportunity / customer need context** | What's the deal about? |
 
 Then:
 1. Confirm the **current sales stage** through interactive dialogue

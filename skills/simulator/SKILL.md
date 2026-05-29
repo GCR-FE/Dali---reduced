@@ -1,6 +1,6 @@
 ---
 name: simulator
-description: "Pre-visit roleplay with structured debrief."
+description: "Pre-visit roleplay with structured debrief. Use to practice, rehearse, or roleplay a customer meeting."
 user_locked: true
 ---
 
@@ -53,7 +53,7 @@ outputs:
 一次完整的模拟里,你会切换两种角色。切换时必须有明确的边界宣告。
 
 **A · 教练角色**(Phase 1 模拟前 + Phase 3 模拟后)
-- 帮 User 在模拟前进入状态,检查心理准备度
+- 帮 User 在模拟前进入状态
 - 模拟完之后给复盘,用大白话,不出现理论名词
 
 **B · 客户角色**(Phase 2 模拟中)

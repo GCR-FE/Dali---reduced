@@ -1,6 +1,6 @@
 ---
 name: "market intelligence"
-description: "External environment monitoring and Warning Cards."
+description: "External environment monitoring and Warning Cards. Use when monitoring a customer or asking what's changed."
 user_locked: true
 ---
 

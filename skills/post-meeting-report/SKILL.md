@@ -1,6 +1,6 @@
 ---
 name: post-meeting-report
-description: "Post-visit debrief with EP auto-sync."
+description: "Post-visit debrief with EP auto-sync. Use after finishing a meeting to debrief or capture notes."
 user_locked: true
 ---
 
